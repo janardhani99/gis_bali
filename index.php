@@ -12,6 +12,7 @@
 </head>
 
 <body>
+	<h2>Batas Wilayah Kabupaten di Bali</h2>
 	<div id="map"></div>
 	<script type="text/javascript">
 	
