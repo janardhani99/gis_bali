@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Tugas GIS</title>
 
 	<style> html, body, #map { height: 100%; width: 100%; padding: 0; margin: 0; } </style>
 	<!-- Leaflet (JS/CSS) -->
